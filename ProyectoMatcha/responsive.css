@@ -1,0 +1,116 @@
+@media (min-width:360px) {
+   
+    .container-header {
+        width: 100%;
+        margin:auto;
+        display: inline-block;
+        
+        
+    }
+
+    .barra-nav > ul li {
+        margin:auto;
+        
+    }
+
+    .barra-nav {
+        margin-left: 45px;
+        margin-bottom: 25px;
+    }
+
+    .actions {
+        display: inline;
+        margin-left: 80px;
+        
+    }
+
+    .lema {
+        font-size: 30px;
+    }
+
+    h4 {
+        display: inline-block;
+        font-size: 15px;
+        margin:auto;
+        margin: 20px 20px;
+    }
+
+    .container-tryit > input {
+        width: 50%;
+    }
+
+    .capterra  img{
+        width: 75%;
+        margin:20px;
+    }
+
+    .intro img {
+        width: 85%;
+        margin:auto;
+        margin-left: 38px;
+    }
+
+    .container-section {
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container-section video {
+        
+        width: 250%;
+        margin-left: -220px;
+
+    }
+
+    article h2 {
+        font-size: 22px;
+        text-align: center;
+        margin: 40px 0 20px 100px;
+    }
+    
+    article p {
+        font-size: 15px;
+        text-align: center;
+        width: 50%;
+        margin-left: 175px;
+    }
+    
+    .lema2 {
+        display: flex;
+        justify-content: center;
+        margin-left: -175px;
+    }
+    
+    h5 {
+        text-align: center;
+        margin-left: 175px;
+    }
+/*a*/
+    
+
+    .container-submit {
+        margin: 20px 0px 20px 150px;
+    }
+    
+    .container-submit button {
+        margin-right: -275px;
+    }
+
+    .features {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .features article {
+        width: 100%;
+    }
+
+    .feature-content  p {
+        text-align: left;
+        margin-left: -2px;
+    }
+    
+}
